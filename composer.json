@@ -1,0 +1,17 @@
+{
+    "name": "t2v-05/monteiro-mvc",
+    "description": "MonteiroRondo 2023",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        },
+        "files": []
+    },
+    "authors": [
+        {
+            "name": "odairsp",
+            "email": "odair.sp@hotmail.com"
+        }
+    ],
+    "require": {}
+}
